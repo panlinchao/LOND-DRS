@@ -208,7 +208,7 @@ torch==2.0.1
 torchaudio==2.0.2
 torchnet==0.0.4
 torchvision==0.15.2
-tornado==6.4
+tornado==6.4.2
 tqdm==4.65.0
 traitlets==5.14.3
 triton==2.0.0
