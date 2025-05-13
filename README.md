@@ -36,9 +36,10 @@ If you find this code useful in your research, please consider citing our paper:
 ```bibtex
 @inproceedings{pan2025learning,
   title={Learning with Open-world Noisy Data via Class-independent Margin in Dual Representation Space},
-  author = {Linchao Pan and Can Gao and Jie Zhou and Jinbao Wang},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-  year={2025}
+  author = {Pan, Linchao and Gao, Can and Zhou, Jie and Wang, Jinbao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2025},
+  pages={6290-6298}
 }
 ```
 
